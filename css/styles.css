@@ -21,3 +21,12 @@ img {
   float: left;
   margin-left: -10px;
 }
+
+body {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.tabcolor {
+  background-color: #EAF3F8;
+  color: #0645AF;
+}
