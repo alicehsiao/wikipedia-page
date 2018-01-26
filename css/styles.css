@@ -1,4 +1,4 @@
-.sidebar {
+/*.sidebar {
   float: left;
   margin-left: -100px;
   border-right: 1px solid #a7d7f9;
@@ -7,17 +7,14 @@
   background-color: #F6F6F6;
   padding-left: 40px;
   padding-right: 20px;
-}
+}*/
+
 
 .firstbox {
   margin-top: 20px;
   padding: 5px;
 }
 
-.top {
-  background-color: #F6F6F6;
-  height: 50px;
-}
 
 img {
   padding-right: 30px;
